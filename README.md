@@ -21,8 +21,8 @@ This ATM application provides a simple and interactive console-based banking exp
 To run the ATM application, follow these steps for **Windows**, **macOS**, and **Linux**:
 
 ```bash
-git clone https://github.com/yourusername/atm-java.git
-cd atm-java
+git clone https://github.com/Nawaf-Alsaadi/ATMSystem.git
+cd ATMSystem
 javac ATM.java
 java ATM
 ```
